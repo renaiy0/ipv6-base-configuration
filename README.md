@@ -22,7 +22,7 @@ This repository contains step-by-step documentation for configuring a basic IPv6
 
 ## 🗺️ Network Topology
 
-![Network Topology](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/assets/topology.png)
+![Network Topology](assets/topology.png)
 
 The network topology demonstrates a simple IPv6 environment where two hosts are connected through a switch to a router, enabling IPv6 communication.
 
@@ -36,7 +36,7 @@ The network topology demonstrates a simple IPv6 environment where two hosts are 
 
 ### Router Configuration
 
-![Router CLI](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/assets/routercli.png)
+![Router CLI](assets/routercli.png)
 
 ```cisco
 Router> enable
